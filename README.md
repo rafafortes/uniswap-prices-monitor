@@ -17,13 +17,13 @@ This project includes a bot written in Node.js that monitors the prices of a spe
 
 Example:
 
-INFURA_API_KEY: .... // YOUR INFURA API KEY
-INTERVAL: 300000 // 5 Minutes  
-NETWORK: goerli // NETWORK NAME
-FACTORY_ADDRESS: // POOL FACTORY CONTRACT ADDRESS - https://docs.uniswap.org/contracts/v3/reference/deployments
-QUOTER_ADDRESS: // QUOTE CONTRACT ADDRESS - https://docs.uniswap.org/contracts/v3/reference/deployments
-TOKEN_IN_ADDRESS: 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2 // WETH
-TOKEN_OUT_ADDRESS: 0xdac17f958d2ee523a2206206994597c13d831ec7 // USDT
+INFURA_API_KEY: .... // YOUR INFURA API KEY  
+INTERVAL: 300000 // 5 Minutes   
+NETWORK: goerli // NETWORK NAME  
+FACTORY_ADDRESS: // POOL FACTORY CONTRACT ADDRESS - https://docs.uniswap.org/contracts/v3/reference/deployments  
+QUOTER_ADDRESS: // QUOTE CONTRACT ADDRESS - https://docs.uniswap.org/contracts/v3/reference/deployments  
+TOKEN_IN_ADDRESS: 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2 // WETH  
+TOKEN_OUT_ADDRESS: 0xdac17f958d2ee523a2206206994597c13d831ec7 // USDT  
 
 ## Initialization
 
